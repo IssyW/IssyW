@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @IssyW
-- 👀 I’m a data analyst working in Python & SQL
-- 🌱 I’m currently learning ML for predictive modelling
+👋 Hi, I’m Izzy
+👀 I’m a data analyst working in Python & SQL
+🌱 I’m currently learning ML for predictive modelling
 
 <!---
 IssyW/IssyW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
